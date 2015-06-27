@@ -7,12 +7,12 @@
 							<div class="call-to-action text-center">
 								<div class="row">
 									<div class="col-sm-8">
-										<h1 class="title">Don't Miss Out Our Offers</h1>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quasi explicabo consequatur consectetur, a atque voluptate officiis eligendi nostrum.</p>
+										<h1 class="title">No te pierdas nuestras promociones</h1>
+										<p>Cada mes tenemos promociones nuevas que te encantaran. Solo visitanos y solicita tu sesión gratis</p>
 									</div>
 									<div class="col-sm-4">
 										<br>
-										<p><a href="#" class="btn btn-lg btn-gray-transparent btn-animated">Learn More<i class="fa fa-arrow-right pl-20"></i></a></p>
+										<p><a href="#" class="btn btn-lg btn-gray-transparent btn-animated">Leer más<i class="fa fa-arrow-right pl-20"></i></a></p>
 									</div>
 								</div>
 							</div>

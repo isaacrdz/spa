@@ -4,9 +4,9 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
-							<h2 class="text-center">Why <strong>Choose</strong> Us</h2>
+							<h2 class="text-center">Porque <strong>Nosotros</strong></h2>
 							<div class="separator"></div>
-							<p class="large text-center">Atque ducimus velit, earum quidem, iusto dolorem. Ex ipsam totam quas blanditiis, pariatur maxime ipsa iste, doloremque neque doloribus, error. Corrupti, tenetur.</p>
+							<p class="large text-center">A continuación te damos algunas de la razones de las cuales somos los mejores y  porque somos tu mejor opción.</p>
 							<br>
 						</div>
 					</div>
