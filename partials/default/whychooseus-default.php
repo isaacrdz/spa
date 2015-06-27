@@ -15,7 +15,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-6">
-								<img src="images/section-image-1.png" alt="">
+								<img src="images/spa/spa-1.jpg" alt="">
 							</div>
 							<div class="col-md-6">
 								<p class="space-top">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At provident modi nobis dolores ratione, maiores beatae vel iste illo incidunt officia sed id cupiditate quasi excepturi</p>
@@ -96,7 +96,7 @@
 								<p><a href="page-services.html" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
 							</div>
 							<div class="col-md-6">
-								<img src="images/section-image-2.png" alt="">
+								<img src="images/spa/spa-2.jpg" alt="">
 							</div>
 						</div>
 					</div>
