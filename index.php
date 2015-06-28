@@ -5,9 +5,7 @@
 <?php include ('partials/default/whychooseus-default.php') ?>
 <?php include ('partials/default/gray-bar-default.php') ?>
 <?php include ('partials/default/whatweoffer-default.php') ?>
-<?php include ('partials/default/portfolio-default.php') ?>
-<?php include ('partials/default/testimonials-default.php') ?>
-<?php include ('partials/default/footer-default.php') ?>
+<?php include ('partials/features/footer-contact-form.php') ?>
 			
 
 			
